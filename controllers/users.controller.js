@@ -252,6 +252,7 @@ controller.bulkUpdate = (req, res, next) => {
 
 controller.deleteUser = (req, res, next) => {
     const { _id } = req.body;
+    
     const userID = typeof _id === "string" ? _id : false;
     if (userID) {
         data.read("users", "users", (err, users) => {

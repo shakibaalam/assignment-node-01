@@ -16,7 +16,7 @@ app.use(express.json());
 app.use(errorHandler)
 
 // dynamic api routes
-app.use("/api/v1", usersRoutes);
+app.use("/user", usersRoutes);
 
 app.get('/', (req, res) => {
   res.send('Hello world')
