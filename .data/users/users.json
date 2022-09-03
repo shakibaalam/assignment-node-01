@@ -1,66 +1,34 @@
 [
   {
-    "_id": "nQZYD",
-    "name": "Mir Hussain",
+    "_id": "1",
+    "name": "Fahim",
     "gender": "Male",
-    "contact": 12345678901,
+    "contact": 8801613387332,
     "address": "Dhaka",
-    "photoURL": "https://i.picsum.photos/id/316/200/300.jpg?hmac=sq0VBO6H0wGg9Prod7MVUUB_7B91kmD5E1X1TRSo66U"
+    "photoURL": "https://github.com/shakibaalam/assignment-node-01"
   },
   {
-    "_id": "notjK",
-    "name": "Jhankar Mahbub",
-    "gender": "Male",
-    "contact": 12345678901,
+    "_id": "2",
+    "name": "Fahima",
+    "gender": "Female",
+    "contact": 8801613387332,
     "address": "Dhaka",
-    "photoURL": "https://i.picsum.photos/id/316/200/300.jpg?hmac=sq0VBO6H0wGg9Prod7MVUUB_7B91kmD5E1X1TRSo66U"
+    "photoURL": "https://github.com/shakibaalam/assignment-node-01"
   },
   {
-    "_id": "P95C3",
-    "name": "Abdullah Fahim",
+    "_id": "3",
+    "name": "Gahimi",
     "gender": "Male",
-    "contact": 12345678901,
+    "contact": 8801613387332,
     "address": "Dhaka",
-    "photoURL": "https://i.picsum.photos/id/316/200/300.jpg?hmac=sq0VBO6H0wGg9Prod7MVUUB_7B91kmD5E1X1TRSo66U"
+    "photoURL": "https://github.com/shakibaalam/assignment-node-01"
   },
   {
-    "_id": "DF9gx",
-    "name": "Mezba Ul Abedin Persian",
-    "gender": "Male",
-    "contact": 12345678901,
+    "_id": "4",
+    "name": "Gahima",
+    "gender": "Female",
+    "contact": 8801613387332,
     "address": "Dhaka",
-    "photoURL": "https://i.picsum.photos/id/316/200/300.jpg?hmac=sq0VBO6H0wGg9Prod7MVUUB_7B91kmD5E1X1TRSo66U"
-  },
-  {
-    "_id": "tz2NL",
-    "name": "Ashraful Islam",
-    "gender": "Male",
-    "contact": 12345678901,
-    "address": "Chittagong",
-    "photoURL": "https://i.picsum.photos/id/316/200/300.jpg?hmac=sq0VBO6H0wGg9Prod7MVUUB_7B91kmD5E1X1TRSo66U"
-  },
-  {
-    "_id": "OQUK3",
-    "name": "Samin Israr Ravi",
-    "gender": "Male",
-    "contact": 12345673465,
-    "address": "Mohammadpur",
-    "photoURL": "https://i.picsum.photos/id/316/200/300.jpg?hmac=sq0VBO6H0wGg9Prod7MVUUB_7B91kmD5E1X1TRSo66U"
-  },
-  {
-    "_id": "se5Bu",
-    "name": "Ayon Jodder",
-    "gender": "Male",
-    "contact": 12345678901,
-    "address": "Dhaka",
-    "photoURL": "https://i.picsum.photos/id/316/200/300.jpg?hmac=sq0VBO6H0wGg9Prod7MVUUB_7B91kmD5E1X1TRSo66U"
-  },
-  {
-    "_id": "yJDAs",
-    "name": "MD Moniruzzaman",
-    "gender": "Male",
-    "contact": 12345678901,
-    "address": "Dhaka",
-    "photoURL": "https://i.picsum.photos/id/316/200/300.jpg?hmac=sq0VBO6H0wGg9Prod7MVUUB_7B91kmD5E1X1TRSo66U"
+    "photoURL": "https://github.com/shakibaalam/assignment-node-01"
   }
 ]
