@@ -16,7 +16,11 @@ app.use(express.json());
 app.use(errorHandler)
 
 // dynamic api routes
-app.use("/api/v1", usersRoutes );
+app.use("/api/v1", usersRoutes);
+
+app.get('/', (req, res) => {
+  res.send('Hello world')
+})
 
 //create server
 app.listen(port, () => console.log(`Listening on Port: ${port}`));
